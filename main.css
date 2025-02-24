@@ -1,3 +1,22 @@
+.container{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
 .box{
-    border: 1px solid red;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 136, 0);
+}
+.box1{
+    background-color: antiquewhite;
+}
+.box2{
+    background-color: brown;
+}
+.box3{
+    background-color: blueviolet;
 }
